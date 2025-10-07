@@ -35,9 +35,9 @@ Prompt testing documentation detailing prompt variations and their effects on ge
 
 Technical Details
 
-Implementation: Built using a mix of no-code automation tools and/or code (please specify the exact technology stack or tools used, e.g., OpenAI API, automation platforms)
+Implementation: Built using a no-code automation tool.
 
-Content Generation: Powered by AI models capable of generating diverse content types (e.g., GPT for text/code, DALL·E or similar for images)
+Content Generation: Powered by AI models capable of generating diverse content types.
 
 Interface: Web-based front end accessible via modern browsers
 
